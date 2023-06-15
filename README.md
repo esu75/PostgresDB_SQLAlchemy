@@ -15,6 +15,7 @@ Precipitation Analysis
 5.	Sort the DataFrame values by "date".
 6.	Plot the results by using the DataFrame plot method, as the following image shows:
 
-8.	https://static.bc-edx.com/data/dl-1-2/m10/lms/img/precipitation.jpg
+![image](https://github.com/esu75/PostgresDB_SQLAlchemy/assets/118146659/737212f1-8c60-4b44-a148-5b788ab44aed)
+
 
 10.	Use Pandas to print the summary statistics for the precipitation data.
