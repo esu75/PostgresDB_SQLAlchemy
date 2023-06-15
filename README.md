@@ -37,7 +37,7 @@ Plot the results as a histogram with bins=12, as the following image shows:
 
 1.	Close your session.
 
-## Part 2: Design Your Climate App
+## Part 2: Design Your Climate Flask App
    
 Now that you’ve completed your initial analysis, you’ll design a Flask API based on the queries that you just developed. To do so, use Flask to create your routes as follows:
 1.	Start at the homepage.
